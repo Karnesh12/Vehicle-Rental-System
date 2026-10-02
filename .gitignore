@@ -25,3 +25,4 @@ backend/src/main/resources/application.properties
 # OS
 .DS_Store
 Thumbs.db
+backend/src/main/resources/application.properties
